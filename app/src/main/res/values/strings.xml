@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popup</string>
+    <string name="action_settings">Settings</string>
+    <string name="balloon">Balloon</string>
+
+    <string name="item1">Item 1</string>
+    <string name="item2">Item 2</string>
+    <string name="item3">Item 2</string>
+</resources>
